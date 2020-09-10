@@ -1,0 +1,12 @@
+#container {
+    background-color: rgba(211, 211, 211, 0.349);
+}
+.button_inactive{
+    background-color: #28a745a8;
+    color: black;
+}
+
+.button_active,  .button_inactive:hover {
+    background-color: #28a745;
+    color: black;
+}
